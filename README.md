@@ -10,8 +10,8 @@ Best mirror in France: http://mirror.archlinux.ikoula.com/iso
 3. Change keyboard to azerty: 
 >loadkeys fr
 
-4. Update packages sources
->pacman -Syu
+4. Update packages databases
+>pacman -Syy
 
 5. Install archinstall
 >pacman -S archinstall
